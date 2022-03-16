@@ -17,3 +17,6 @@ Creation d'un Crud avec Angular et Spring Boot
 - La couche DAO qui est basée sur Spring Data, JPA, Hibernate et JDBC.
 - La couche Métier
 - La couche Web basée sur MVC coté Serveur en utilisant Angular.
+
+## Architecture
+![Architecture bungalow] (/assests/images/Architecture.PNG)
