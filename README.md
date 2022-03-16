@@ -19,4 +19,4 @@ Creation d'un Crud avec Angular et Spring Boot
 - La couche Web basée sur MVC coté Serveur en utilisant Angular.
 
 ## Architecture
-! [Architecture bungalow] (/assests/images/Architecture.PNG)
+![My Image](/assests/images/Architecture.PNG)
